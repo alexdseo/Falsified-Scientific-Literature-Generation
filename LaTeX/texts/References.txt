@@ -42,3 +42,6 @@ Doughton, G., Wei, J., Tapon, N., Welham, M. J., & Chalmers, A. D. (2014). Forma
 
 71.txt
 Cerny, H. E., Rogers, D. G., Gray, J. T., Smith, D. R., & Hinkley, S. (2006). Effects of Moraxella (Branhamella) ovis culture filtrates on bovine erythrocytes, peripheral mononuclear cells, and corneal epithelial cells. Journal of clinical microbiology, 44(3), 772-776.
+
+Abstract.txt
+Park, K. S. (2013). Aucubin, a naturally occurring iridoid glycoside inhibits TNF-α-induced inflammatory responses through suppression of NF-κB activation in 3T3-L1 adipocytes. Cytokine, 62(3), 407-412.
