@@ -1,0 +1,44 @@
+25.txt
+Dey, P., Chakraborty, M., Kamdar, M. R., & Maiti, M. K. (2014). Functional characterization of two structurally novel diacylglycerol acyltransferase2 isozymes responsible for the enhanced production of stearate-rich storage lipid in Candida tropicalis SY005. PLoS One, 9(4), e94472.
+
+0.txt
+Woo, P. C., Lau, S. K., Wong, B. H., Chan, K. H., Hui, W. T., Kwan, G. S., ... & Yuen, K. Y. (2004). False-positive results in a recombinant severe acute respiratory syndrome-associated coronavirus (SARS-CoV) nucleocapsid enzyme-linked immunosorbent assay due to HCoV-OC43 and HCoV-229E rectified by Western blotting with recombinant SARS-CoV spike polypeptide. Journal of clinical microbiology, 42(12), 5885-5888.
+
+2.txt
+Zhang, Z., Liu, X., Feng, B., Liu, N., Wu, Q., Han, Y., ... & Fan, D. (2015). STIM1, a direct target of microRNA-185, promotes tumor metastasis and is associated with poor prognosis in colorectal cancer. Oncogene, 34(37), 4808-4820.
+
+5.txt
+Yeh, C. B., Hsieh, M. J., Hsieh, Y. S., Chien, M. H., Lin, P. Y., Chiou, H. L., & Yang, S. F. (2012). Terminalia catappa exerts antimetastatic effects on hepatocellular carcinoma through transcriptional inhibition of matrix metalloproteinase-9 by modulating NF-κB and AP-1 activity. Evidence-based complementary and alternative medicine, 2012.
+
+6.txt
+Lee, H. J., Cho, J. W., Kim, S. C., Kang, K. H., Lee, S. K., Pi, S. H., ... & Kim, E. C. (2006). Roles of p38 and ERK MAP kinases in IL-8 expression in TNF-α-and dexamethasone-stimulated human periodontal ligament cells. Cytokine, 35(1-2), 67-76.
+
+11.txt
+Ma, L., Liu, Y., Geng, C., Qi, X., & Jiang, J. (2013). Estrogen receptor β inhibits estradiol-induced proliferation and migration of MCF-7 cells through regulation of mitofusin 2 Corrigendum in/10.3892/ijo. 2016.3695. International journal of oncology, 42(6), 1993-2000.
+
+17.txt
+Sun, Y., Zheng, W. J., Hu, Y. H., Sun, B. G., & Sun, L. (2012). Edwardsiella tarda Eta1, an in vivo-induced antigen that is involved in host infection. Infection and immunity, 80(8), 2948-2955.
+
+22.txt
+Rizwani, W., Fasim, A., Sharma, D., Reddy, D. J., Bin Omar, N. A., & Singh, S. S. (2014). S137 phosphorylation of profilin 1 is an important signaling event in breast cancer progression. PloS one, 9(8), e103868.
+
+27.txt
+Gerbaud, P., Petzold, L., Thérond, P., Anderson, W. B., Evain-Brion, D., & Raynaud, F. (2005). Differential regulation of Cu, Zn-and Mn-superoxide dismutases by retinoic acid in normal and psoriatic human fibroblasts. Journal of autoimmunity, 24(1), 69-78.
+
+37.txt
+Hait, N. C., Allegood, J., Maceyka, M., Strub, G. M., Harikumar, K. B., Singh, S. K., ... & Spiegel, S. (2009). Regulation of histone acetylation in the nucleus by sphingosine-1-phosphate. Science, 325(5945), 1254-1257.
+
+40.txt
+Liu, Y., Liu, Y., Sun, C., Gan, L., Zhang, L., Mao, A., ... & Zhang, H. (2014). Carbon ion radiation inhibits glioma and endothelial cell migration induced by secreted VEGF. PLoS One, 9(6), e98448.
+
+61.txt
+Lee, Y. F., Miller, L. D., Chan, X. B., Black, M. A., Pang, B., Ong, C. W., ... & Desai, K. V. (2012). JMJD6 is a driver of cellular proliferation and motility and a marker of poor prognosis in breast cancer. Breast Cancer Research, 14(3), 1-16.
+
+62.txt
+Wang, Y., Qu, Y., Niu, X. L., Sun, W. J., Zhang, X. L., & Li, L. Z. (2011). Autocrine production of interleukin-8 confers cisplatin and paclitaxel resistance in ovarian cancer cells. Cytokine, 56(2), 365-375.
+
+65.txt
+Doughton, G., Wei, J., Tapon, N., Welham, M. J., & Chalmers, A. D. (2014). Formation of a polarised primitive endoderm layer in embryoid bodies requires fgfr/erk signalling. PLoS One, 9(4), e95434.
+
+71.txt
+Cerny, H. E., Rogers, D. G., Gray, J. T., Smith, D. R., & Hinkley, S. (2006). Effects of Moraxella (Branhamella) ovis culture filtrates on bovine erythrocytes, peripheral mononuclear cells, and corneal epithelial cells. Journal of clinical microbiology, 44(3), 772-776.
