@@ -11,7 +11,7 @@
 - `python part6.py`
 - Output file: `out.out`
 
-# Parse
+## Parse
 
 **Run `caption_generation.ipynb` to parse `out.out` and generate `captions.txt`.**
 - `captions` saved as a list to be accessed in `data_preprocess/data_preprocess.ipynb`
