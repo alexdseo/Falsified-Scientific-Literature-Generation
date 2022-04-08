@@ -4,7 +4,7 @@
 
 [Download pretrained model checkpoint here](https://drive.google.com/drive/folders/1soN2XWoFQDZGp1a4lENG1mfEo4AVxNSr)
 
-Or you can download from the repo, however, you do need to download `model.ckpt-1562.data` from the above drive which is not in this repo.
+Or you can download from this folder, however, you do need to download `model.ckpt-1562.data` from the above drive which is not in this folder.
 
 - Download the files in the above google drive and save it in your own Google Drive account. To make sure you can use this model checkpoint while running  `grover.ipynb` using Google CoLab, Please set your google drive folder name where you saved all the files as `GROVER_pretrained` so you do not have to change anything in the CoLab file.
 
