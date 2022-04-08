@@ -46,3 +46,4 @@ fake = Faker()
 - Generate all features in `data_preprocess.ipynb`
 	- These features will be used for LaTeX generation
 - Run `discrimination/get_probs.ipynb` to import Grover discrimination feature into this Notebook (`h_probs` and `m_probs` for 214 Bik papers and 500 fake papers, respectively)
+- Note that `Falsified Media (Manually labeled)` column is in binary: `1` for `True`, `0` for `False`
