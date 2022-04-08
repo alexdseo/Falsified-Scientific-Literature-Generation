@@ -1,4 +1,4 @@
-Run `image_extraction.ipynb` to extract images from unzipped `data_preprocess/PDFS`.
+*Run `image_extraction.ipynb` to extract images from unzipped `data_preprocess/PDFS`.*
 - Requires PyMuPDF: `pip install PyMuPDF Pillow`
 - Run `data_preprocess/data_preprocess.ipynb` to import `bik_df` dataframe into this Notebook
 
@@ -12,7 +12,7 @@ Method 2: Save all images to one folder.
 
 NOTE: EXTRACTED IMAGES NOT UPLOADED TO GITHUB. SEE GOOGLE DRIVE LINK: https://drive.google.com/drive/folders/1finogOVevkTtMn0uYajDjDd2BVtabXuk?usp=sharing
 
-Run `FaceGeneratorDCGAN.ipynb`.
+*Run `FaceGeneratorDCGAN.ipynb`.*
 - Recommended to run on Google Colab
 - Requires Kaggle API key to directly import 100k celebrity images dataset
 - If running on your own images, export image file names as `extracted_images.txt`
