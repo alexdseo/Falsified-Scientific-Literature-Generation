@@ -36,13 +36,15 @@ fake = Faker()
 	- webdriver-manager: `pip install webdriver-manager`
 - Faker: `pip install Faker`
 
-# Load data from `Bik_v2.tsv`. Update filepath as needed.
+# Download PDFs, generate features, & update TSV
 
-# 214 PDFs saved to `PDFS`.
+**Load data from `Bik_v2.tsv`. Update filepath as needed.**
+
+**214 PDFs saved to `PDFS`.**
 - USC VPN required for specific journals:
 	- Wiley [119:121], Cancer [135:143], SciDirect [144:177], Science [178:180], Nature [181:187]
 
-# Updated TSV saved as `Bik_v2_updated.tsv`.
+**Updated TSV saved as `Bik_v2_updated.tsv`.**
 - Generate all features in `data_preprocess.ipynb`
 	- These features will be used for LaTeX generation
 - Run `discrimination/get_probs.ipynb` to import Grover discrimination feature into this Notebook (`h_probs` and `m_probs` for 214 Bik papers and 500 fake papers, respectively)
