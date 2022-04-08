@@ -1,4 +1,6 @@
-# `LaTeX.ipynb`
+# Generating LaTeX formatted files
+
+Look `LaTeX.ipynb` for more details.
 
 **Requirements**
 - Install LaTeX.
