@@ -38,12 +38,9 @@ fake = Faker()
 
 Load data from `Bik_v2.tsv`. Update filepath as needed.
 
-214 PDFs saved to `PDFS.zip`.
+214 PDFs saved to `PDFS`.
 - USC VPN required for specific journals:
 	- Wiley [119:121], Cancer [135:143], SciDirect [144:177], Science [178:180], Nature [181:187]
-- Unzip `PDFS.zip` for image extraction (`image_generation/image_extraction.ipynb`)
-
-NOTE: DOWNLOADED PDFS NOT UPLOADED TO GITHUB. SEE GOOGLE DRIVE LINK: https://drive.google.com/drive/folders/1finogOVevkTtMn0uYajDjDd2BVtabXuk?usp=sharing
 
 Updated TSV saved as `Bik_v2_updated.tsv`.
 - Generate all features in `data_preprocess.ipynb`
