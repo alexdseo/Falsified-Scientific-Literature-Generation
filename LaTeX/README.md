@@ -6,5 +6,5 @@
 
 **500 TEX files saved to `tex.zip`.**
 
-**1 extra credit PDF (and TEX file) saved as `fake_scientific_literature.pdf`.**
+**1 full falsified scientific paper (PDF & TEX) saved as `fake_scientific_literature.pdf`.**
 - Selected content for extra credit PDF in `images` and `texts` folders.
