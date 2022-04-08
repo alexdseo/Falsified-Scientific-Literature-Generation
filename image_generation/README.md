@@ -1,7 +1,5 @@
 # Image Extraction from pdf files
 
-Look `image_extraction.ipynb` for more details
-
 **Run `image_extraction.ipynb` to extract images from unzipped `data_preprocess/PDFS`.**
 - Requires PyMuPDF: `pip install PyMuPDF Pillow`
 - Run `data_preprocess/data_preprocess.ipynb` to import `bik_df` dataframe into this Notebook
@@ -17,8 +15,6 @@ Method 2: Save all images to one folder.
 NOTE: EXTRACTED IMAGES NOT UPLOADED TO GITHUB. SEE GOOGLE DRIVE LINK: https://drive.google.com/drive/folders/1finogOVevkTtMn0uYajDjDd2BVtabXuk?usp=sharing
 
 # Facee Generation
-
-Look `FaceGeneratorDCGAN.ipynb` for more details
 
 **Run `FaceGeneratorDCGAN.ipynb` to generate faces.**
 - Recommended to run on Google Colab
