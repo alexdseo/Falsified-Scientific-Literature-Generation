@@ -1,7 +1,7 @@
 # Falsifeid Scientific Literature Generation
 ## Main Colab file for text generation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Falsified-Scientific-Literature-Generation/blob/master/grover_test_bik.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Falsified-Scientific-Literature-Generation/blob/master/grover.ipynb)
 
 # Grover
 ##### UPDATE, Sept 17 2019. We got into NeurIPS (camera ready coming soon!) and we've made Grover-Mega publicly available without you needing to fill out the form. You can download it using [download_model.py](download_model.py).
