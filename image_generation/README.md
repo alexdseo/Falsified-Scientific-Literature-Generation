@@ -1,4 +1,6 @@
-# `image_extraction.ipynb`
+# Image Generation
+
+Look `image_extraction.ipynb` for more details
 
 **Run `image_extraction.ipynb` to extract images from unzipped `data_preprocess/PDFS`.**
 - Requires PyMuPDF: `pip install PyMuPDF Pillow`
