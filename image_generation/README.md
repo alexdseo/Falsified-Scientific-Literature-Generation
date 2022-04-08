@@ -14,7 +14,7 @@ Method 2: Save all images to one folder.
 
 NOTE: EXTRACTED IMAGES NOT UPLOADED TO GITHUB. SEE GOOGLE DRIVE LINK: https://drive.google.com/drive/folders/1finogOVevkTtMn0uYajDjDd2BVtabXuk?usp=sharing
 
-# Facee Generation
+# Face Generation
 
 **Run `FaceGeneratorDCGAN.ipynb` to generate faces.**
 - Recommended to run on Google Colab
