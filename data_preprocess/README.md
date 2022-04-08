@@ -1,4 +1,6 @@
-# Requirements
+# Data preprocessing
+
+## Requirements
 
 ```python
 import os
@@ -36,7 +38,7 @@ fake = Faker()
 	- webdriver-manager: `pip install webdriver-manager`
 - Faker: `pip install Faker`
 
-# Download PDFs, generate features, & update TSV
+## Download PDFs, generate features, & update TSV
 
 **Load data from `Bik_v2.tsv`. Update filepath as needed.**
 
