@@ -1,4 +1,4 @@
-# Falsifeid Scientific Literature Generation
+# Falsified Scientific Literature Generation
 ## Main Colab file for text generation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Falsified-Scientific-Literature-Generation/blob/master/grover.ipynb)
