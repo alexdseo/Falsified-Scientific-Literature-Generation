@@ -43,7 +43,7 @@ fake = Faker()
 **Load data from `Bik_v2.tsv`. Update filepath as needed.**
 
 **214 PDFs saved to `PDFS`.**
-- USC VPN required for specific journals:
+- VPN required for specific journals *(We used USC VPN)*:
 	- Wiley [119:121], Cancer [135:143], SciDirect [144:177], Science [178:180], Nature [181:187]
 
 **Updated TSV saved as `Bik_v2_updated.tsv`.**
