@@ -1,4 +1,4 @@
-# discrimination
+# Discrimination
 
 This folder contains code for the discrimination experiments.
 
