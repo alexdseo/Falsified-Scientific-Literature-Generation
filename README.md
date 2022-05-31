@@ -8,7 +8,7 @@ For more information about Grover, visit original author's project page at [rowa
 
 ## Generating fake text using Grover
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Falsified-Scientific-Literature-Generation/blob/master/grover.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Falsified-Scientific-Literature-Generation/blob/master/fake_text/grover.ipynb)
 
 ## Result
 
